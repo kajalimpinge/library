@@ -1,0 +1,10 @@
+# environment-specific file
+.env*
+
+
+# npm modules
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+/node_modules
+
+# vscode settings
+.vscode
